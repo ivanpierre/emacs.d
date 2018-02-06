@@ -1,7 +1,6 @@
-*.ss~
-*.ss#*
-.#*.ss
+*.el~
+*.el#*
+.#*.el
 
-*.scm~
-*.scm#*
-.#*.scm
+/url
+/auto-save-list
