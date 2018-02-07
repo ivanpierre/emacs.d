@@ -1,3 +1,28 @@
 ;;; -*- coding: utf-8 -*-
-(("/home/ivan/.emacs.d/.gitignore" . 22)
- ("/home/ivan/.emacs.d/ede-projects.el" . 86))
+(("/home/ivan/.emacs.d/init.el" . 3626)
+ ("/home/ivan/.emacs.d/"
+  (dired-filename . "/home/ivan/.emacs.d/init.el"))
+ ("/home/ivan/.emacs.d/elpa/neotree-20170522.758/neotree-autoloads.el" . 1276)
+ ("/home/ivan/.emacs.d/elpa/projectile-20180128.655/projectile-autoloads.el" . 17139)
+ ("/home/ivan/.emacs.d/places" . 1117)
+ ("/home/ivan/.emacs.d/auto-save-list/"
+  (dired-filename . "/home/ivan/.emacs.d/auto-save-list/.saves-6230-optiflex~"))
+ ("/home/ivan/.emacs.d/ede-projects.el" . 86)
+ ("/home/ivan/.emacs.d/elpa/direx-20170422.627/direx-autoloads.el" . 831)
+ ("/home/ivan/Developer/test/test-clojure-maven/README.md" . 45)
+ ("/home/ivan/Developer/test/test-clojure-maven/.gitignore" . 153)
+ ("/home/ivan/Developer/test/test-clojure-maven/project.clj" . 771)
+ ("/home/ivan/Developer/test/test-clojure-maven/"
+  (dired-filename . "/home/ivan/Developer/test/test-clojure-maven/.."))
+ ("/home/ivan/Developer/cljstron/"
+  (dired-filename . "/home/ivan/Developer/cljstron/cljstron"))
+ ("/home/ivan/Developer/docker/"
+  (dired-filename . "/home/ivan/Developer/docker/dockerapp"))
+ ("/home/ivan/Developer/test/"
+  (dired-filename . "/home/ivan/Developer/test/.."))
+ ("/home/ivan/Developer/"
+  (dired-filename . "/home/ivan/Developer/.."))
+ ("/home/ivan/"
+  (dired-filename . "/home/ivan/.emacs.d"))
+ ("/home/ivan/.emacs.d/elpa/dired-k-20170313.803/dired-k-autoloads.el" . 819)
+ ("/home/ivan/.emacs.d/.gitignore" . 22))
